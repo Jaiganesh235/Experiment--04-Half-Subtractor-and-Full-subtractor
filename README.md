@@ -63,8 +63,12 @@ endmodule
 
 ## TRUTH TABLE:
 ### HALF SUBTRACTOR
+![image](https://github.com/Jaiganesh235/Experiment--04-Half-Subtractor-and-Full-subtractor/assets/118657189/ff3bf8aa-be1d-4bc0-aeba-dbfb48b15787)
+
 
 ### FULL SUBTRACTOR
+![image](https://github.com/Jaiganesh235/Experiment--04-Half-Subtractor-and-Full-subtractor/assets/118657189/6308e249-bf33-4446-a3fb-743f4fa45410)
+
 
 ## RTL REALIZATION:
 ### HALF SUBTRACTOR
