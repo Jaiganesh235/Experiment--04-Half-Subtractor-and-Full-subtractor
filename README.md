@@ -10,7 +10,7 @@ To design a half subtractor and full subtractor circuit and verify its truth tab
 ## EQUIPMENTS REQUIRED:
 1. Hardware – PCs, Cyclone II , USB flasher
 2. Software – Quartus prime
-3. 
+ 
 ## THEORY:
 Subtractor circuits take two binary numbers as input and subtract one binary number input from the other binary number input. Similar to adders, it gives out two outputs, difference and borrow (carry-in the case of Adder). There are two types of subtractors.
 Half Subtractor Full Subtractor
