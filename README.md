@@ -72,18 +72,18 @@ endmodule
 
 ## RTL REALIZATION:
 ### HALF SUBTRACTOR
-![image](https://github.com/Jaiganesh235/Experiment--04-Half-Subtractor-and-Full-subtractor/assets/118657189/aff52370-a74f-4401-8f2a-eb476ace8f0c)
+![image](https://github.com/Jaiganesh235/Experiment--04-Half-Subtractor-and-Full-subtractor/assets/118657189/895e7f9d-d8bb-49d8-ba6a-c107f3c89115)
 
 ### FULL SUBTRACTOR
-![image](https://github.com/Jaiganesh235/Experiment--04-Half-Subtractor-and-Full-subtractor/assets/118657189/e4921d67-54b8-4dae-a870-339db0ce78b0)
+![image](https://github.com/Jaiganesh235/Experiment--04-Half-Subtractor-and-Full-subtractor/assets/118657189/51bf96e2-c127-4392-b9aa-4f802622f27a)
 
 
 ## OUTPUT WAVEFORM:
 ### HALF SUBTRACTOR
-![image](https://github.com/Jaiganesh235/Experiment--04-Half-Subtractor-and-Full-subtractor/assets/118657189/a8c87812-8b19-4646-9373-519266c75caa)
+![image](https://github.com/Jaiganesh235/Experiment--04-Half-Subtractor-and-Full-subtractor/assets/118657189/0bff9ecc-05a8-4553-9fbc-c6cb7fff99dd)
 
 ### FULL SUBTRACTOR
-![image](https://github.com/Jaiganesh235/Experiment--04-Half-Subtractor-and-Full-subtractor/assets/118657189/2f280c0e-e744-4e32-8f94-2f4100905c88)
+![image](https://github.com/Jaiganesh235/Experiment--04-Half-Subtractor-and-Full-subtractor/assets/118657189/d3b3213a-27e0-49f3-9a55-be7d65b9f57e)
 
 ## RESULT:
 Thus the half subtractor and full subtractor circuits are designed and the truth tables is verified using quartus software.
